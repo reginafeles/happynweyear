@@ -1,12 +1,22 @@
+body {
+    background-color: #6667AB
+}
+
 h1 {
+    color: white;
     text-align: center;
+    font-family: "segoe script"
 }
 
 p {
-    border: 2px solid #800080;
-    font-size: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: "GABRIOLA";
+    border: 20px outset gold;
+    text-align: center;
 }
 
 img {
-    border: 10px solid lightblue;
+    text-align: center;
+    border: 20px outset gold;
 }
